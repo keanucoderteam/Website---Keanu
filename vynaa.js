@@ -1,22 +1,22 @@
 
 // Objek untuk menyimpan pengaturan
 const settings = {
-    title: "Vynaa Valerie | Always happy",
-    metaTitle: "Vynaa Valerie|| Always happy",
+    title: "Jubair Keanu R | Always happy",
+    metaTitle: "Jubair Keanu R || Always happy",
     metaDescription: "Developer & Creator",
-    metaKeywords: "Vynaa, profil, siapa Vynaa?",
+    metaKeywords: " Keanu, profil, siapa Keanu?",
     metaRobots: "index, follow",
     profileImage: "media/profile.jpg",
     name: "Vynaa Valerie ",
     occupation: "Creator & Developer",
     location: "📍 Pekanbaru, Riau, Indonesia",
     socialLinks: [
-        { name: "Instagram", url: "https://instagram.com/vynaa_valerie" },
-        { name: "WhatsApp", url: "https://wa.me/message/2MOJNXNC45Y5E1" },
-        { name: "YouTube", url: "https://youtube.com/@VynaaChan" },
-        { name: "Facebook", url: "https://facebook.com/your-facebook" },
-        { name: "Donasi", url: "https://saweria.co/vynaabot" },
-        { name: "Github", url: "https://github.com/VynaaValerie" }
+        { name: "Instagram", url: "https://instagram.com/KEANU_03" },
+        { name: "WhatsApp", url: "https://wa.me/qr/GD6A3XDW3G7XI1" },
+        { name: "Saluran", url: "https://whatsapp.com/channel/0029Vah35fYDZ4LeGZSgL73P" },
+        { name: "Website", url: "https://s.id/26oHR" },
+        { name: "Donasi", url: "https://saweria.co/keanucoderteam" },
+        { name: "Github", url: "https://github.com/keanucoderteam" }
         // Tambahkan link sosial lainnya di sini
     ]
 };
