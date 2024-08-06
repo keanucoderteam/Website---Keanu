@@ -7,9 +7,9 @@ const settings = {
     metaKeywords: " Keanu, profil, siapa Keanu?",
     metaRobots: "index, follow",
     profileImage: "media/profile.jpg",
-    name: "Vynaa Valerie ",
+    name: " Jubair Keanu R  ",
     occupation: "Creator & Developer",
-    location: "📍 Pekanbaru, Riau, Indonesia",
+    location: "📍 Kabupaten Bogor, Jawa Barat , Indonesia",
     socialLinks: [
         { name: "Instagram", url: "https://instagram.com/KEANU_03" },
         { name: "WhatsApp", url: "https://wa.me/qr/GD6A3XDW3G7XI1" },
