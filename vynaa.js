@@ -12,9 +12,8 @@ const settings = {
     location: "📍 Kabupaten Bogor, Jawa Barat , Indonesia",
     socialLinks: [
         { name: "Instagram", url: "https://instagram.com/KEANU_03" },
-        { name: "WhatsApp", url: "https://wa.me/qr/GD6A3XDW3G7XI1" },
+        { name: "Telegram", url: "https://t.me/keanucodderteamxd666" },
         { name: "Saluran", url: "https://whatsapp.com/channel/0029Vah35fYDZ4LeGZSgL73P" },
-        { name: "Website", url: "https://s.id/26oHR" },
         { name: "Donasi", url: "https://saweria.co/keanucoderteam" },
         { name: "Github", url: "https://github.com/keanucoderteam" }
         // Tambahkan link sosial lainnya di sini
